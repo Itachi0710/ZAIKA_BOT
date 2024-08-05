@@ -1,8 +1,8 @@
-CREATE DATABASE  IF NOT EXISTS `pandeyji_eatery` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `pandeyji_eatery`;
+CREATE DATABASE  IF NOT EXISTS `Zaika_fastfood` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+USE `Zaika_fastfood`;
 -- MySQL dump 10.13  Distrib 8.0.31, for Win64 (x86_64)
 --
--- Host: localhost    Database: pandeyji_eatery
+-- Host: localhost    Database: Zaika_fastfood
 -- ------------------------------------------------------
 -- Server version	8.0.31
 
@@ -95,7 +95,7 @@ INSERT INTO `orders` VALUES (40,1,2,12.00),(40,3,1,8.00),(41,4,3,15.00),(41,6,2,
 UNLOCK TABLES;
 
 --
--- Dumping routines for database 'pandeyji_eatery'
+-- Dumping routines for database 'Zaika_fastfood'
 --
 /*!50003 DROP FUNCTION IF EXISTS `get_price_for_item` */;
 /*!50003 SET @saved_cs_client      = @@character_set_client */ ;
